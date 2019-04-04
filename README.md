@@ -11,7 +11,7 @@ Please read the [step-by-step implementation tutorial](https://github.com/satwik
 Clone the project,
 
 ```sh
-$ git clone https://github.com/satwikkansal/python_blockchain_app.git
+$ git clone https://github.com/rezaprimasatya/python_blockchain_app.git
 ```
 
 Start a blockchain node server,
